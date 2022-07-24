@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chibukasia
-- 👀 I’m interested in Data Science, Ethical hacking and, software programming.
-- 🌱 I’m currently learning python prigramming language and javascript.
-- 💞️ I’m looking to collaborate on learning about data analysis and ethical hacking.
+- 👀 I’m interested in Data Science, Ethical hacking and, software engineering.
+- I’m currently learning python prigramming language and javascript.
+- I’m looking to collaborate on software projects, learning about data analysis,AI and ethical hacking().
 - 📫 Email me on chibukasianelson@gmail.com
 
 <!---
