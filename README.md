@@ -8,7 +8,7 @@ I'm a tech enthusiast and a software developer as a fullstack software developer
 I'm currently learning
 - Python, Django framework
 
-##
+## Connect
 - I’m looking to collaborate on software projects, learning about web development and cool tech stuff
 - 📫 Email me on chibukasianelson@gmail.com
 - LiknedIn Nelson Chibukasia
