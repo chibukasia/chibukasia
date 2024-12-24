@@ -51,6 +51,7 @@ I’m looking to collaborate on software projects, learning about web developmen
 ### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chibukasia&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chibukasia)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibukasia)](https://github.com/chibukasia/github-readme-stats)
 ### Blog Posts :
 - [find-max-and-min-values-of-an-array-using-sort-with-compare-functions](https://dev.to/chibukasia/find-max-and-min-values-of-an-array-using-sort-with-compare-functions-2pdd)
